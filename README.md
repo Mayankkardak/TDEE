@@ -1,4 +1,4 @@
-
+Developer- Mayank Kardak<br>
 # TDEE Calculator Website
 
 This repository contains the source code for a Total Daily Energy Expenditure (TDEE) Calculator website. The TDEE calculator helps users estimate the number of calories they need to consume daily to maintain, lose, or gain weight, based on their activity level and personal details.
